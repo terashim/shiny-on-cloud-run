@@ -1,0 +1,7 @@
+Type: Project
+Title: Shiny on Cloud Run
+Description: Deploy Shiny app to Cloud Run.
+Depends:
+  renv (== 1.0.3),
+  shiny,
+  httr2
