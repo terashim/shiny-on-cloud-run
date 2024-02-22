@@ -51,8 +51,8 @@ ui <- fluidPage(
   p(
     "ソースコードは GitHub リポジトリ",
     a(
-      "terashim/shiny-on-cloud-run",
-      href="https://github.com/terashim/shiny-on-cloud-run",
+      "shiny-on-cloud-run/with-oauth2",
+      href="https://github.com/shiny-on-cloud-run/with-oauth2",
       target="_blank"
     ),
     "で公開されています。"
